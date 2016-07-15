@@ -1,3 +1,6 @@
-The OpenShift `nodejs` cartridge documentation can be found at:
+# Location Mapper
+Simple Express server that saves coordinates reported via a Post from a client device and responds to Get requests with a map of those coordinates.  Created as a demo of the [Sapori Pinocchios](https://github.com/jangerhofer/saporiPinocchios) website functionality.
 
-http://openshift.github.io/documentation/oo_cartridge_guide.html#nodejs
+____
+
+![Map page](/screenshot1.png)
